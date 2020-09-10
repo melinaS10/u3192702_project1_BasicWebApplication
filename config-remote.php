@@ -3,9 +3,9 @@
 /* Set up connection */
 
 $host       = "localhost";
-$username   = "urdng8jm52ta9";
-$password   = "tg3qwgd58ebg";
-$dbname     = "dbdn2kfe7w28kp"; 
+$username   = "upcqym6at6wws";
+$password   = "jv7y87nsxx7n";
+$dbname     = "dbazhmmwxg4349"; 
 $dsn        = "mysql:host=$host;dbname=$dbname"; 
 $options    = array( PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION);
 
